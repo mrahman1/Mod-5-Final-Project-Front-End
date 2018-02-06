@@ -1,0 +1,56 @@
+@import "./CandidateResume.css";
+
+#candidate-container{
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 40px; margin: auto;
+  width: 1400px;
+}
+
+#candidate-container-right{
+  float: right;
+  margin: 0;
+  padding-left: 40px;
+}
+
+#candidate-container-left{
+  float: left;
+  text-align: center;
+  margin: 0;
+}
+
+#candidate-table{
+  width: 400px;
+}
+
+#edit-candidate-div{
+  text-align: center;
+  padding-top: 40px;
+}
+
+#edit-column{
+  width: 600px;
+}
+
+#candidate-list{
+  padding-top: 40px;
+  text-align: center;
+}
+
+#new-candidate-segment{
+  background-color: #4d94ff;
+}
+
+#new-candidate-div{
+  padding-top: 10px
+}
+
+#candidate-form{
+  width: 640px; /*can be in percentage also.*/
+  height: auto;
+  padding: 20px;
+  top: 50%;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}

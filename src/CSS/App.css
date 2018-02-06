@@ -1,0 +1,53 @@
+@import "./Candidate.css";
+@import "./Job.css";
+@import "./Login.css";
+
+#homepage-banner{
+  padding-top: 90px;
+  text-align: center;
+}
+
+
+#homepage-header{
+  color: #F9C725;
+}
+
+.ui.form{
+  width: 400px;
+  margin: 0 auto;
+}
+
+.two.fields{
+  padding: 0px;
+  padding-right: 0px;
+  padding-left: 0px
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

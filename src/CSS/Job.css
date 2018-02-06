@@ -1,0 +1,98 @@
+.fourteen.wide.column{
+  background-color: #4d94ff;
+}
+
+#job-app-count{
+  text-align: center;
+}
+
+#application-table{
+  text-align: center;
+}
+#hiring-flow-div{
+  width: 600px;
+  margin: auto
+}
+
+#application-list{
+  text-align: center;
+}
+#job-container{
+  width: 1000px;
+  margin: auto;
+}
+
+.ten.wide.column{
+  background-color: white;
+  margin-top: 20px;
+}
+
+.four.wide.column{
+  margin-top: 20px;
+  background-color: #f4cb42;
+}
+
+.p.bold{
+  font-weight: bold;
+}
+
+#job-description{
+  text-align: center;
+}
+
+#button-row{
+  text-align: right;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+#new-app-form{
+  width: 400px;
+  text-align: center;
+}
+
+#job-table-head{
+  text-align: center;
+}
+
+#job-edit-input{
+  width: 400px;
+}
+
+#new-job-form{
+  width: 400px;
+  text-align: center;
+}
+
+#edit-job-div{
+  text-align: center;
+  padding-top: 40px;
+}
+
+#edit-column{
+  width: 600px;
+}
+
+#grid{
+  padding-top: 70px;
+}
+
+
+#job-view{
+  padding-top: 20px
+}
+
+#job-navbar{
+  padding-top: 20px
+}
+
+#jobs-grid{
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+#new-job-button{
+  text-align: right;
+}
